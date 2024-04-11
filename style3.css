@@ -1,0 +1,27 @@
+.up{
+	text-align: center;
+	height: 950px;
+	background-color: black;
+}
+
+	
+
+.photo{
+	border: 50px 40px 50px 40px;
+	width: 500px;
+	height:230px;
+}
+
+.ap{
+	font-size: 60px;
+	text-align: center;
+	color: white;
+}
+
+.ip{
+	text-align: center;
+	color: white;
+	font-size: 55px;
+	
+}
+
